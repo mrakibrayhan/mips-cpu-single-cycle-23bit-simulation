@@ -1,0 +1,11 @@
+# Word lock/temp files
+~$*.docx
+~$*.doc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
